@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is my first Repository 
+this is my first Git-Repository.
+Author - Aanya Aggarwal
